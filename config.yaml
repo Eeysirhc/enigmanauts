@@ -1,5 +1,5 @@
 theme: "hugo-theme-color-your-world"
-baseURL: http://www.enigmanauts.com/
+baseURL: https://www.enigmanauts.com/
 languageCode: en-us
 title: EnigmaNFTs
 
@@ -10,3 +10,5 @@ menu:
           name: collections
           url: /collections/
         
+
+
