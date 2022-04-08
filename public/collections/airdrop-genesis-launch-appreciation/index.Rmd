@@ -8,6 +8,8 @@ lastmod: '2022-04-08T14:43:21-07:00'
 cover: ''
 coverAlt: ''
 toc: no
+editor_options: 
+  chunk_output_type: console
 ---
 
 
@@ -19,7 +21,7 @@ toc: no
 
 <hr> 
 
-*Actions speaker louder than words so here is a very small token of appreciation for your early support in the project. Thank you again*
+*Actions speaker louder than words so here is a very small token of appreciation for your early support in the project. Thank you again!*
 
 
 ![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeichkmljapbe6zmwx2gk22pngrsiptf7tkz5afa4tkkylsbgh5s6ee?resource_type=image)
