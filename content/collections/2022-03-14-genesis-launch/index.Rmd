@@ -40,7 +40,9 @@ editor_options:
 
 ![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeicbhlsgnnaz63f2yjzqpjrob4meff7mbsutchhiyrnd2h6hazvo4y?resource_type=image)
 
-### 005
+### [005](https://explorer.ergoplatform.com/en/token/e355f29e283d0ba8a8de5bc4fc45b343c92162a20e286cdfc20c4ad3fe1c64d7)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeibdnr5ttvkkmmfa63fxnhjaea7p4oiqn2oxp6ao7svxlcvhkctesq?resource_type=image)
 
 ### [006](https://explorer.ergoplatform.com/en/token/fdbc75bcd99bb0a956966d0505ba4ceb9a9cf14d213be7eaba880c5544466017)
 
