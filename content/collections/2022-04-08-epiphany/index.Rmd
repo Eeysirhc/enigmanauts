@@ -15,7 +15,7 @@ editor_options:
 ## Overview
 
 **Release Price:** 20-60 ERG  
-**Status:** MINTING IN PROGRESS  
+**Status:** SALES & MINTING IN PROGRESS  
 **Total:** 50  
 
 
