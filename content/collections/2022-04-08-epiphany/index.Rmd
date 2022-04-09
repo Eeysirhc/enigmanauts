@@ -14,7 +14,7 @@ editor_options:
 
 ## Overview
 
-**Release Price:** ??? ERG  
+**Release Price:** 20 ERG  
 **Status:** MINTING IN PROGRESS  
 **Total:** 50  
 
