@@ -147,9 +147,13 @@ editor_options:
 
 ![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeigvrt73rrlpcaquchdwv35x76vua7mq23hx6iiqytfhzbpye35z5u?resource_type=image)
 
-### 082
+### [082](https://explorer.ergoplatform.com/en/token/89c014b938199ba2f803840752a0a0dbcf627ca3691f1e173a3f9bff6e1cc9fc)
 
-### 083
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeifpxkrlo5ifoi7ynqicuuwvo2crkgcg4n6vm36hkmh3twz37ockge?resource_type=image)
+
+### [083](https://explorer.ergoplatform.com/en/token/bf9bcc6201e7236e878c6b24fef32caac1e97482d7d9de2ea6070378a51c4d74)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeia46hl2t6jk4pq62bmfl2g6nnp4kkeq34jaghog4eokoysogsokoe?resource_type=image)
 
 ### 084
 
