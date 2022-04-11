@@ -14,8 +14,8 @@ editor_options:
 
 ## Overview
 
-**Release Price:** 20-60 ERG  
-**Status:** SALES & MINTING IN PROGRESS  
+**Release Price:** 20-40 ERG  
+**Status:** ACTIVE SALES  
 **Total:** 50  
 
 
@@ -207,13 +207,18 @@ editor_options:
 
 ![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeif3l6w3aqlufwumqjrrbx6a7t6lakqiad43ve7z6dvxfkbzhuiwme?resource_type=image)
 
-### 097
+### [097](https://explorer.ergoplatform.com/en/token/852b902e32c0171a745c6eb80c7a57e9306744526cc789fb2ae0a394b5040d0a)
 
-### 098
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeigfea3vae2eo6vaww5pftqvdrqlah3wtuqcpm37nsjuwrt46d2k3q?resource_type=image)
 
-### 099
+### [098](https://explorer.ergoplatform.com/en/token/8883edac08cc94c162cc1bd686197532528ce5b1cec938032c13f0b82a58ecd0)
 
-### 100
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeiedue6mniuet7h7kbly727cve5zspy6w6fvp5i2bopgfx2lldq5ha?resource_type=image)
 
+### [099](https://explorer.ergoplatform.com/en/token/84375901c645fd9bfd6f8bd4abab6f48e2987cb5049bffa3b033a4f245823da3)
 
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeia4jcz32ipgytnkgucmf7rjgs54fhvd5hpc4ift6ukhailmxcgxry?resource_type=image)
 
+### [100](https://explorer.ergoplatform.com/en/token/9ad03bf50d43f8481b9a01229abb1673f3bf2c435db03cfea0cc49cc09a259e2)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeicnxdqyrq3wsrkowfmbv6urdbpic2fmoccp5ojnuyutwi4o46y7qu?resource_type=image)
