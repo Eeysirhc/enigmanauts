@@ -15,7 +15,7 @@ editor_options:
 ## Overview
 
 **Release Price:** 20-40 ERG  
-**Status:** FOR SALE
+**Status:** FOR SALE  
 **Total:** 50  
 
 
