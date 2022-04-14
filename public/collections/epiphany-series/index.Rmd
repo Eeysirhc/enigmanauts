@@ -4,7 +4,7 @@ author: Enigma
 date: '2022-04-08'
 slug: epiphany-series
 description: ''
-lastmod: '2022-04-08T16:12:15-07:00'
+lastmod: '2022-04-11T16:12:15-07:00'
 cover: ''
 coverAlt: ''
 toc: no
@@ -14,116 +14,211 @@ editor_options:
 
 ## Overview
 
-**Release Price:** ??? ERG  
-**Status:** MINTING IN PROGRESS  
+**Release Price:** 20-40 ERG  
+**Status:** FOR SALE  
 **Total:** 50  
 
 
 <hr>
 
 
-### 001
+### [051](https://explorer.ergoplatform.com/en/token/a6a81964ff7880742467599f96d7b747357e10487a4f122b17bad739459d7b50)
 
-### 002
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeieojug6z2pv7jacdpbtatnoivvomiufzd2fraskpcxjrj3jvydyoa?resource_type=image)
 
-### 003
+### [052](https://explorer.ergoplatform.com/en/token/07beab993f26919ffc8951525bfcb3591712ae0199153fa4560a98e0b3a46c95)
 
-### 004
-
-### 005
-
-### 006
-
-### 007
-
-### 008
-
-### 009
-
-### 010
-
-### 011
-
-### 012
-
-### 013
-
-### 014
-
-### 015
-
-### 016
-
-### 017
-
-### 018
-
-### 019
-
-### 020
-
-### 021
-
-### 022
-
-### 023
-
-### 024
-
-### 025
-
-### 026
-
-### 027
-
-### 028
-
-### 029
-
-### 030
-
-### 031
-
-### 032
-
-### 033
-
-### 034
-
-### 035
-
-### 036
-
-### 037
-
-### 038
-
-### 039
-
-### 040
-
-### 041
-
-### 042
-
-### 043
-
-### 044
-
-### 045
-
-### 046
-
-### 047
-
-### 048
-
-### 049
-
-### 050
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeif5shdoltmwj55n4iebxb3pwncqcnrpoibrmnv6uqv3hxkf757tri?resource_type=image)
 
 
+### [053](https://explorer.ergoplatform.com/en/token/872a2f6124bb3a8a43c9070cfdb93e0a05d3a3ce863ce2a52d64a423f4efa2c7)
 
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeidw323ud42rd7x5afkqzd6feznm4gvjn6o4qyurpjxg2jkydznd6q?resource_type=image)
 
+### [054](https://explorer.ergoplatform.com/en/token/35040c691cad286ca8a835dde0d88463963d71330da6b933199ee133ae1be138)
 
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeig5a5puwoxova33fijvhlzhmxjh355h3btdonhsnr67trakdg3yve?resource_type=image)
 
+### [055](https://explorer.ergoplatform.com/en/token/131b60e126849d0c31d56698ecaadd88e9ff02d9b8b140accb5f0fefb906814c)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeifwo4mukmbtsfp2xqlrpqizzaahbqqmmugpynwonqy34yw7gyzcdi?resource_type=image)
+
+### [056](https://explorer.ergoplatform.com/en/token/792b3fd1939509d1ad6438e200b87fcda5276a63431ec2b58230ef957a4a3ab4)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeie4c7d3evgtx75xljbedbiejqdtnuhbmbyskl3yxj5fkwqqokrlxy?resource_type=image)
+
+### [057](https://explorer.ergoplatform.com/en/token/9bb0bd2ca903f439e54b8380b8263c4eb4d3bde8fa308b5c00e5ff1835007df8)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeidxrajlgox5k2ces76z3pmdh2ntulmvy2la47qr3klhrbef3jinse?resource_type=image)
+
+### [058](https://explorer.ergoplatform.com/en/token/6b3d00322fa8f747e2dba94bb6a07bd3e45a95c8c587d8d8d67c04260a016458)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeiasxfpvyxqrnifaklhd6lp4mlx4erorbtddu4m2l4ycjhmnjxo3by?resource_type=image)
+
+### [059](https://explorer.ergoplatform.com/en/token/edfe00ab615435716df72fb77d6cfdfb716aec05826dab91659639d8431b5b67)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeign26xw2te5a5onqixnuyfdxfvjembku3wff4pi6w2m4isfodcwyu?resource_type=image)
+
+### [060](https://explorer.ergoplatform.com/en/token/fdb2b6fd18dc0052c15244b75f7556f068f24b7dbe45a1ad12fa34d0047a6400)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeibm2hu72brpckf2ww425nbyxuigolm7dytwq2dwchi64zswaxu3hq?resource_type=image)
+
+### [061](https://explorer.ergoplatform.com/en/token/bfec585b732434786193702de11677d0e0d49aabb9278264fa82eae4f4df4cd2)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeihmxo2h34abqmgkewx2qd532qdznm7xu5spxphvc5thd7kosisvai?resource_type=image)
+
+### [062](https://explorer.ergoplatform.com/en/token/66c684bdff2d6323e3839f07cb496d79de01a32c802218ed1d452fa7efa0b406)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeie4lskwkvw5rr26o3udtjujyblfx5vn6huvmdf5k2hlhzg7c4kzyu?resource_type=image)
+
+### [063](https://explorer.ergoplatform.com/en/token/b0578b79d285634b0c5e0ac7a82cecd41cc9ffb28fccd2d02136fe3c690f6b1f)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeicrg2rcglkbyx3xz64ci543j6tp6vdgk2xpzzopsbpqt6xrv2ndqu?resource_type=image)
+
+### [064](https://explorer.ergoplatform.com/en/token/554bcbe44ec6afb5830320711f58492502dd5b908d84e29e97286ebb4d4da37c)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeies6rcjngfxyt2jxoczljd4mvhmmvy67yvmtgs373hmiuikedkbay?resource_type=image)
+
+### [065](https://explorer.ergoplatform.com/en/token/0c51beff2e7dd4249e94a079248ba2b5f4383284c8e0aea5b0dd081ae5a9e980)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeihybywbo4uhzxkn4jr5zankpws3qaqsgsrhgg4d76ynwvxccwvnyy?resource_type=image)
+
+### [066](https://explorer.ergoplatform.com/en/token/0f25e0cb04d0c2edf33f6ee85b4ede73252625d1802e80ff2e4dd9562213de54)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeieiyldyrb7ba7vqes6co2buydleie3kltcuv4xw3457zyeqrvjxhm?resource_type=image)
+
+### [067](https://explorer.ergoplatform.com/en/token/c15929856d8426301204c950e4b0c3b8aaf761efca3fc6dae8dfcf402de60724)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeidessjjijwtnhyuzeln5l4yiys2ug6fvfi4d4myq5udtxsx6p6t2m?resource_type=image)
+
+### [068](https://explorer.ergoplatform.com/en/token/41ba077bd44d5eaa555af44d6430c4f97f32efa7a1c76cd998f0ba70dff37639)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeieuciau5efrjjbxyjjqcenwax5hvsulis7wkd4jypb2ve7zql5zpe?resource_type=image)
+
+### [069](https://explorer.ergoplatform.com/en/token/9c0bab14b8d1a9c29f4a09e0c8212f5427c8b37cdfef964c25f864904eba33aa)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeignogwnocdodwzkebxvqcokqv6yyt4b4y7wu2q4cz6rxjiwqylzvm?resource_type=image)
+
+### [070](https://explorer.ergoplatform.com/en/token/5933bce2a7e78956124ec3f699b0a77057cfd2a43681c8ac7d222ed5f4665006)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeigu55l3ag7wxi5ygjhllhpmi5mtvwgwh6cnuvg7mrozxgmyg7tocq?resource_type=image)
+
+### [071](https://explorer.ergoplatform.com/en/token/ead38e7a5d66261152cdc30f83cfe3601532fa5dc71c02fdd6e661de2f0cb106)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeiajmczlhyjlmenle6xmme6yv3lzxnx2mahzz7qzvr3dseeo3ko5xa?resource_type=image)
+
+### [072](https://explorer.ergoplatform.com/en/token/0a6ba20f9a54632bde930525982b89ffa53e3b1868cb73360e8e64e6b160f08d)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeia4rgjholrpuvz5xbbykla2tsorpn7ubljxs35tvc3xwdpgtuodhq?resource_type=image)
+
+### [073](https://explorer.ergoplatform.com/en/token/15e5a7c0661b4048aadb324d426e7187c955c9d7c05b1b46a2c29ecc450314b3)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeicnwut4whtzi2xtyh2unhwbvflgo2obnhj3urxnaalkk4t2v74cdm?resource_type=image)
+
+### [074](https://explorer.ergoplatform.com/en/token/da60a7ee9d2bb9117ab777c001363c99282164ac8de9fba7396f337a0293530a)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeidmomd3zlsrmll4vnmvtw4m6mawqrm2dgmayh53idio5rtypf7iru?resource_type=image)
+
+### [075](https://explorer.ergoplatform.com/en/token/ea2b9fcfd51914be6d98710b9b3ac8ec205e93b6ecfea4db978e1b4d658d2050)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeiftdxcdjjkktrfyoy3istqil5f5zjagigjhblzx76xmqidn4l3ske?resource_type=image)
+
+### [076](https://explorer.ergoplatform.com/en/token/f05da5d65e31117943f6e0f8c6476a10ff283eaeea89d89cce42242e97f0b516)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeicy6vpqmx7p26gqb3gcgjqqsvdflkefzglvhylrid3hxmypr43fme?resource_type=image)
+
+### [077](https://explorer.ergoplatform.com/en/token/16ee1763dc28b9da3103af5e7fc21a1b43d043f3decf6d736d6f46c3432dcb02)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeie5brldviknzxbl7s3dq5yfatfnymqrloeuxsun4age7cetjhkmne?resource_type=image)
+
+### [078](https://explorer.ergoplatform.com/en/token/8eafa1fa9d5364732be88023d3c4e5c85e0737cae914983da322f5ea2f5e10f0)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeigrnpiakjfp4n4oek6dfcy3a47s75w2i2afntg6cyq67t7iwiw254?resource_type=image)
+
+### [079](https://explorer.ergoplatform.com/en/token/1a95195a92438c15005f674b54300ac26971f58f7f0fe20393a3d92d869e9ad5)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeiddxw2p2dkkzimlqbk2pzoyxgivkiwmu5vukwmudrjm4l7qnfy7aa?resource_type=image)
+
+### [080](https://explorer.ergoplatform.com/en/token/c5b36bc3c3c1dd62a17a3413e649af39c1fad81a7a983f9741b3d0bed5ebdf1b)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeifa76f3kaj5iuymjslb4f564wzajo6jfcya2pa6mxldija6frscgm?resource_type=image)
+
+### [081](https://explorer.ergoplatform.com/en/token/28dd46075f7d377e2694dff162d98e79a2824294686f228cc34bf62d44ad1060)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeigvrt73rrlpcaquchdwv35x76vua7mq23hx6iiqytfhzbpye35z5u?resource_type=image)
+
+### [082](https://explorer.ergoplatform.com/en/token/89c014b938199ba2f803840752a0a0dbcf627ca3691f1e173a3f9bff6e1cc9fc)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeifpxkrlo5ifoi7ynqicuuwvo2crkgcg4n6vm36hkmh3twz37ockge?resource_type=image)
+
+### [083](https://explorer.ergoplatform.com/en/token/bf9bcc6201e7236e878c6b24fef32caac1e97482d7d9de2ea6070378a51c4d74)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeia46hl2t6jk4pq62bmfl2g6nnp4kkeq34jaghog4eokoysogsokoe?resource_type=image)
+
+### [084](https://explorer.ergoplatform.com/en/token/71173c5400f82c989d94ccbab6be4bc527c0847d22e1a5d9f7bc6c86884ef6e4)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeihissq53g6cyhpxafqvrdyl7zpcjx2vyavkdkmshkm7jwhiigu3eq?resource_type=image)
+
+### [085](https://explorer.ergoplatform.com/en/token/c377caf6f62a7528cacfc9b2ca9581063532cba1438907c62ca4a2080cdd0203)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeievpkbis6zktdxcktgdj62ebah3rkl5easfsuqozb4gtpb2s5r4ua?resource_type=image)
+
+### [086](https://explorer.ergoplatform.com/en/token/723ca2067be3c218885c9699f1537977cdca8d7e4982e0f1333c2b83badad9d4)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeifywztkpqf4pfi4tkqq767eht3v2cfdfmwqytedofke45txab45wa?resource_type=image)
+
+### [087](https://explorer.ergoplatform.com/en/token/478e3b01693dd62d2ddd03f5aae9db9e217a6b4679fee14c562ef348c9b642eb)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeiffbk66a6qc3mtoe76dsnlnencbwgcx4mgvygkt6of4ktbst53gga?resource_type=image)
+
+### [088](https://explorer.ergoplatform.com/en/token/42aaf520af21ffb1316e013fd948f25aeed2d32056725f442fd934a8ac5543b2)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeie3dfw336kwr6io3pohllhc5fascpq53t6xwr2lbrmhi667ydsn2u?resource_type=image)
+
+### [089](https://explorer.ergoplatform.com/en/token/d8fb3250e4cb87c95d011ce34087c9ef4486ffe8957f56094c18424664ae718c)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeied3dc4tbdtkv7faiy7wpx5zp4wj7mktrpfvruaca5jwjsgfqfdmu?resource_type=image)
+
+### [090](https://explorer.ergoplatform.com/en/token/f980735ed0ff803184630ca4f9d4c15e452ba61e4f0c776a29269305b5d6047b)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeid5mpnhzewc5hgfcoz5jdgu2da5vwer2nmlg2m46qowqody7uxrlu?resource_type=image)
+
+### [091](https://explorer.ergoplatform.com/en/token/bed08e83b95cbc670d341dfb763d99b87b93ae1cc9f8428939f5b6b442ca0df8)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeifuaf727g2k5nvgrelgryrae6vngk63tqjinjibay7lkf4s4z5rwy?resource_type=image)
+
+### [092](https://explorer.ergoplatform.com/en/token/090dbe8977c4132266bd17fab8f3ef8c153065d5c983d80d936475ea1766a648)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeihjulpiidimojo6nkqt3q7zaw5knmtxquoeyldlbjugker5wb77gu?resource_type=image)
+
+### [093](https://explorer.ergoplatform.com/en/token/1d8856432463efc825ee93947d0d2a15799f213b5c5201119bfbdd5f7711e472)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeibprc3pb7xyrvlz6qn6htz6dtvtj5yk6xl7gb7dgztvjh3yd6hrju?resource_type=image)
+
+### [094](https://explorer.ergoplatform.com/en/token/4d13941fec5304af850d902663a60b46c8a0b0f48ca6dc9b1a6f6ccd3b350b16)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeif7qimxkoiginopd4vrbz4sklhew7gegag2dncrgm3aifr4tosxxe?resource_type=image)
+
+### [095](https://explorer.ergoplatform.com/en/token/a41342289ae6e18c37b694b3305eeb302035ddeb13f8b85e5efc39a472bc88bf)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeif47s6fy2372yudbkuvkdziolfwjyzlpjcy2ac3fqshbe4i26gltu?resource_type=image)
+
+### [096](https://explorer.ergoplatform.com/en/token/fb9d728c77d8909c571067fceed34d150c0e9d5fae5b915d2a9d4785f3be9859)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeif3l6w3aqlufwumqjrrbx6a7t6lakqiad43ve7z6dvxfkbzhuiwme?resource_type=image)
+
+### [097](https://explorer.ergoplatform.com/en/token/852b902e32c0171a745c6eb80c7a57e9306744526cc789fb2ae0a394b5040d0a)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeigfea3vae2eo6vaww5pftqvdrqlah3wtuqcpm37nsjuwrt46d2k3q?resource_type=image)
+
+### [098](https://explorer.ergoplatform.com/en/token/8883edac08cc94c162cc1bd686197532528ce5b1cec938032c13f0b82a58ecd0)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeiedue6mniuet7h7kbly727cve5zspy6w6fvp5i2bopgfx2lldq5ha?resource_type=image)
+
+### [099](https://explorer.ergoplatform.com/en/token/84375901c645fd9bfd6f8bd4abab6f48e2987cb5049bffa3b033a4f245823da3)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeia4jcz32ipgytnkgucmf7rjgs54fhvd5hpc4ift6ukhailmxcgxry?resource_type=image)
+
+### [100](https://explorer.ergoplatform.com/en/token/9ad03bf50d43f8481b9a01229abb1673f3bf2c435db03cfea0cc49cc09a259e2)
+
+![](https://skyharbor.mo.cloudinary.net/card/https://cloudflare-ipfs.com/ipfs/bafybeicnxdqyrq3wsrkowfmbv6urdbpic2fmoccp5ojnuyutwi4o46y7qu?resource_type=image)
