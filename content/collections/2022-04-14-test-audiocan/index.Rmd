@@ -1,0 +1,34 @@
+---
+title: 'Test: Audiocan'
+author: Enigma
+date: '2022-04-14'
+slug: test-audiocan-series
+description: ''
+lastmod: '2022-04-14T14:49:37-07:00'
+cover: ''
+coverAlt: ''
+toc: no
+---
+
+> Note: this was meant to test AV capabilities on SkyHarbor (n/a as of this writing) and implement metadata into NFT listings (successful).
+
+
+## Overview
+
+**Release Price:** 25000 ERG  
+**Status:** FOR SALE  
+**Total:** 1  
+
+<hr>
+
+
+
+### [Token ID](https://explorer.ergoplatform.com/en/token/779cb2fba4513689cc6aa1aeaac270ed6127fa41ae110774fbc9d59e7b953cda)
+
+### [Video](https://ipfs.blockfrost.dev/ipfs/bafybeig2raqmlvbeugc2olunxla35ocbscilcotavseumtmw5s7tz5p7pa)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Testing out a different artistic medium for <a href="https://twitter.com/hashtag/enigmaNFTs?src=hash&amp;ref_src=twsrc%5Etfw">#enigmaNFTs</a> but learned that....<a href="https://twitter.com/SkyHarbor_io?ref_src=twsrc%5Etfw">@SkyHarbor_io</a> does not have AV yet. <a href="https://twitter.com/HazeyOneKenobi?ref_src=twsrc%5Etfw">@HazeyOneKenobi</a> wen ?<br><br>Figured out how to implement <a href="https://twitter.com/hashtag/enft?src=hash&amp;ref_src=twsrc%5Etfw">#enft</a> attributes. h/t <a href="https://twitter.com/PixelyErgo?ref_src=twsrc%5Etfw">@PixelyErgo</a> <a href="https://twitter.com/NilsDougan?ref_src=twsrc%5Etfw">@NilsDougan</a> for the advice<a href="https://twitter.com/hashtag/ergo?src=hash&amp;ref_src=twsrc%5Etfw">#ergo</a> <a href="https://twitter.com/hashtag/ergonauts?src=hash&amp;ref_src=twsrc%5Etfw">#ergonauts</a> <a href="https://twitter.com/search?q=%24erg&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$erg</a> <a href="https://twitter.com/hashtag/ergonft?src=hash&amp;ref_src=twsrc%5Etfw">#ergonft</a> <a href="https://twitter.com/hashtag/nft?src=hash&amp;ref_src=twsrc%5Etfw">#nft</a> <a href="https://twitter.com/hashtag/nftcommunity?src=hash&amp;ref_src=twsrc%5Etfw">#nftcommunity</a> <a href="https://t.co/SQPV3vjPbI">pic.twitter.com/SQPV3vjPbI</a></p>&mdash; Enigma (@enigmaNFTs) <a href="https://twitter.com/enigmaNFTs/status/1514598736789327873?ref_src=twsrc%5Etfw">April 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
